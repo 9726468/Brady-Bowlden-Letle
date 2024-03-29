@@ -1,0 +1,6 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/python-3.10:v58-20240322-590b495","time":"2024-03-29T16:56:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit:v7-20240319-38caddd","time":"2024-03-29T16:56:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/1918444f2732-runtime","time":"2024-03-29T16:56:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/5e6695c3965c-runtime","time":"2024-03-29T16:56:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/ea86cf215513-runtime","time":"2024-03-29T16:56:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .local/share/rippkgs-index.sqlite","time":"2024-03-29T16:56:57Z"}
